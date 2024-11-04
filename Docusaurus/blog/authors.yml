@@ -1,3 +1,21 @@
+Andrew4Coding:
+  name: Daniel Ferdiansyah
+  title: CS Student @ UI
+  url: https://github.com/danferdiansyah
+  image_url: https://github.com/danferdiansyah.png
+  page: true
+  socials:
+    github: danferdiansyah
+
+arya-raditya:
+  name: Alpha Sutha Media
+  title: CS Student @ UI
+  url: https://github.com/alphasuthamedia
+  image_url: https://github.com/alphasuthamedia.png
+  page: true
+  socials:
+    github: arya-raditya
+
 yangshun:
   name: Yangshun Tay
   title: Front End Engineer @ Facebook
